@@ -1,0 +1,299 @@
+.free{
+    background-color: #5e5e4a;
+    text-align: center;
+    color: white;
+    font-family: none;
+    letter-spacing: 0.2em;
+}
+.row{
+    width: 1400px;
+}
+.ls{
+    list-style: none;
+}
+
+li.ls,.listsection{
+    float: left;
+    padding: 10px 10px;  
+}
+.one{
+    padding: 10px;
+    text-align: right;
+    position: relative;
+    top: 46px;
+    right: 80px;
+}
+.name{
+    text-align: center;
+    margin: 17px 60px;
+    padding: 8px;
+    border-style: solid;
+    border-width: 3px;
+    position: relative;
+}
+.nameone{
+
+    margin: 5px;
+    padding: 40px;
+}
+.ls2{
+    list-style: none;
+    position: relative;
+    left: 90px;
+}
+.listsection2,li,.ls2{
+
+    float: left;
+    padding: 10px 13px;
+   }
+   .two{
+    padding: 10px;
+    text-align: right;
+    position: relative;
+    top: 30px;
+    left: 80px;
+}
+.imagesec{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.h2{
+    font-size: 60px;
+    margin: 10px;
+    font-weight: 200; 
+}
+.move{
+    position: relative;
+    top:45%;
+}
+.para{
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+}
+.paraalign{
+text-align: center;
+letter-spacing: 10px;
+font-size: 30px;
+padding: 20px;
+margin: 50px;
+}
+.btn{
+    background-color: #5e5e4a;
+    color: white;
+    padding: 10px 30px;
+    margin: 20px 10px;
+    border-radius: 0%;
+    font-family: auto;
+}
+.btn:hover{
+    background-color:#efebd1;
+}
+.nature{
+    margin: 20px;
+    font-weight: 180;
+}
+.paranature{
+padding: 20px;
+}
+.video{
+    padding-left: 17%;
+}
+.candlebtn{
+    background-color: #5e5e4a;
+    border:1px solid;
+    color: white;
+    padding: 10px 30px;
+    margin: 20px 18px;
+    border-radius: 0%;
+    font-family: auto;
+    text-decoration: none;
+}
+.candlebtn:hover{
+    background-color:#ffffff;
+    color:black;
+}
+.space{
+    margin-top: 10%;
+}
+.image3{
+    position: relative;
+    bottom: -50px;
+
+}
+.image2{
+    padding:80px;
+    position: relative;
+    top: -52%;
+    right: 25px;
+}
+.center{
+    position: relative;
+    top:40%
+}
+.h4style{
+    text-align: start;
+    font-weight: 180;
+    letter-spacing: 3px; 
+    padding-bottom: 20px;
+}
+.soapbtn{
+    border:1px solid;
+    color: #000;
+
+    padding: 10px 30px;
+    border-radius: 0%;
+    font-family: auto;
+    text-decoration: none;
+}
+.soapbtn:hover{
+    background-color:#5e5e4a;
+    color: white;
+    
+}
+.bgcolor{
+    background-color: #d7d7cb;
+   
+}
+.hovercolor:hover{
+    background-color: #5e5e4a;
+    color: white;
+    cursor: pointer;
+}
+.hovercolor{
+    
+        border: 1PX solid;
+        text-align: center;
+        padding: 10px 23px;
+        margin-bottom: 60px;
+}
+.h4text{
+    font-family: none;
+    text-align: center;
+    margin-top: 10%;
+    font-size: xxx-large;
+    letter-spacing: 2px;
+}
+.paratext{
+    font-family: none;
+    text-align: center;
+    margin: 52px 404px;
+}
+.ourstory{
+    text-align: center;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    padding: 10px 40px;
+    border-radius: 0%;
+    font-family: auto;
+}
+a.ourstory{
+    text-align: center;
+    position: relative;
+    left: 44%;
+}
+.ourstory:hover{
+    background-color: #5e5e4a;
+    color: #ffffff;
+}
+.imgcandle{
+    text-align: center;
+    margin-top: 5%;
+}
+.imagecandle2{
+    position: relative;
+    bottom: 18%;
+    left: 32%;
+}
+.grey{
+    background-color: #d7d7cb4d;
+  
+}
+.blog{
+    text-align: center;
+    font-family:none;
+    font-size: 50px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin: 10%;
+
+}
+.h6container{
+    padding: 18px 0px 6px 55px;
+    font-size: larger;
+    font-family: none;
+    font-weight: bold;
+  
+    cursor: pointer;
+}
+.paraconatiner{
+    padding: 18px 69px 6px 55px;
+    font-family: none;
+    cursor: pointer;
+}
+.h6container:hover{
+    color: #5e5e4a;
+
+}
+.paraconatiner:hover{
+    color: #5e5e4a;
+}
+.learn{
+    background-color: #5e5e4a;
+    color: white;
+    padding: 10px 6px;
+    margin: 20px 10px;
+    border:1px solid;
+    font-family: auto;
+    text-align: center;
+    margin-left: 43%;
+    margin-top: 4%;
+    cursor: pointer;
+    margin-bottom: 5%;
+}
+.learn:hover{
+    background-color: #d7d7cb;
+    color: #000;
+    border-color: #000;
+}
+.candlebox{
+    background-color:#5e5e4a;
+    color:#ffffff;
+text-align: center;
+font-size: 31px;
+border: 1px solid;
+border-color: #ffffff;
+margin: 40% 20% 40% 20%;
+padding: 20px 10px 20px 12px;
+}
+
+
+.bottom2,.bottom3{
+   
+    padding: 10%;
+    margin: 10%;
+    font-size: 25px;
+    letter-spacing: 0.1em"
+
+}
+.pbottom{
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 1.8em;
+    letter-spacing: 0.1em
+}
+.h7bottom{
+    font-size: 25px;
+    letter-spacing: 0.1em;
+}
+.footer{
+    text-align: center;
+    background-color: #5e5e4a;
+    color: #ffffff;
+    margin: 0px;
+    font-family: none;
+    letter-spacing: 0.2em;
+}
